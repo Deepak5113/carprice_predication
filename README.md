@@ -4,8 +4,10 @@
 This project aims to predict the selling price of cars based on key features such as year of manufacture, kilometers driven, fuel type, seller type, transmission type, and ownership history using machine learning.
 
 ## Overview:
-### Dataset: The dataset comprises 4340 car listings with 8 columns including both numerical and categorical data.
-### Data Cleaning: The dataset was thoroughly cleaned with no missing values.
+### Dataset: 
+The dataset comprises 4340 car listings with 8 columns including both numerical and categorical data.
+### Data Cleaning: 
+The dataset was thoroughly cleaned with no missing values.
 
 ## Exploratory Data Analysis (EDA):
 Analyzed feature distributions and correlations with selling price using visualizations.
